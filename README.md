@@ -32,5 +32,5 @@
 
 ## Output File
 
-Command-line arguments: 1, 2, 5
+Command-line arguments: 1, 2, 5.<br/>
 ![Alt Text](/output/result.png)
