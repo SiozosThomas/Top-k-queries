@@ -34,3 +34,6 @@
 
 Command-line arguments: 1, 2, 5.<br/>
 ![Alt Text](/output/result.png)
+
+## Copyright
+[MIT](https://github.com/SiozosThomas/Top-k-queries/blob/master/LICENSE) © 2020 Thomas Siozos
